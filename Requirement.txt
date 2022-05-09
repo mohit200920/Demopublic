@@ -8,3 +8,6 @@ text
 
 Registration page
 dark mode
+
+
+Payment method
