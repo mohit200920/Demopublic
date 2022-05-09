@@ -4,3 +4,7 @@ emoji
 
 Login page
 text
+
+
+Registration page
+dark mode
